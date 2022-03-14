@@ -1,0 +1,18 @@
+{
+  "name": "booksapp-internship-assessment",
+  "version": "1.0.0",
+  "description": "To Create a Module, which rewards Users Referrer whenever a payment has been made.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "shubhamjr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5"
+  }
+}

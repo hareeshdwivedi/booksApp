@@ -1,0 +1,30 @@
+[
+  {
+    "name": "shubham",
+    "email": "shubham123@gmail.com",
+    "referredUser": null,
+    "isPaymentMade": true,
+    "totalEarnings": 20
+  },
+  {
+    "name": "aman",
+    "email": "aman123@gmail.com",
+    "referredUser": null,
+    "isPaymentMade": false,
+    "totalEarnings": 0
+  },
+  {
+    "name": "anmol",
+    "email": "anmol123@gmail.com",
+    "referredUser": null,
+    "isPaymentMade": true,
+    "totalEarnings": 30
+  },
+  {
+    "name": "shivansh",
+    "email": "shivansh123@gmail.com",
+    "referredUser": "622a170227026d44259c3d2d",
+    "isPaymentMade": false,
+    "totalEarnings": 0
+  }
+]
